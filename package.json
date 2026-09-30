@@ -1,0 +1,12 @@
+{
+  "name": "aurelia-skin-lab-github-pages",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "preview": "node scripts/preview.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
